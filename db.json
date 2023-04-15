@@ -1,0 +1,25 @@
+{
+    "haciendas":
+   [
+    {
+        "id_hacienda": 1,
+        "nombre": "La Argelia",
+        "telefono": 3158653481,
+        "direccion":"Via puerto Triunfo/Kilometro 25",
+        "imagen": "https://i.ytimg.com/vi/ZZPTLmC2Um0/hqdefault.jpg"
+
+        
+    },
+
+    {
+        "id_hacienda": 2,
+        "nombre": "La palmera",
+        "telefono": 3658945987,
+        "direccion":"Via puerto Triunfo/Kilometro 10",
+        "imagen": "https://a.storyblok.com/f/160385/5a2bf75984/reglas-comprar-finca-ganadera.jpg"
+
+        
+    }
+
+   ]
+}
